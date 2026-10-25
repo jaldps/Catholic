@@ -1,0 +1,6 @@
+{
+  "name": "Sancta Fides",
+  "description": "The Ultimate Catholic Companion: Bible, Daily Mass, Holy Rosary, Catechism, Novenas, and Saints in EN, ES, and PT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
